@@ -14,4 +14,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       - name: java version
-         run: java --version 
+         run: java -version
